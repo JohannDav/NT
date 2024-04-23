@@ -83,14 +83,15 @@ body, html {
  
  .conocenos{
     background-color: slategray;
-    text-align: center;
+    text-align: left;
     flex-direction: row;
     border-radius: 2%;
 
  }
+
+
  
- .lista{
-    color:aliceblue;
-    list-style-type: none;
-    text-align: center;
- }
+a:link{
+  text-decoration-line: none;
+  color: darkgray;
+}
